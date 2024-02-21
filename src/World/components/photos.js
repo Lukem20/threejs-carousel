@@ -17,14 +17,14 @@ function createPhotos (gui) {
         '/assets/projects/hbc1.JPG',
         '/assets/projects/whatDesigner1.JPG',
         '/assets/projects/sb2.jpg',
-        '/assets/textures/grass/color.jpg',
-        '/assets/textures/woodendoor/color.jpg',
+        '/assets/textures/tiedye/color.jpg',
+        '/assets/textures/tiedye/color.jpg',
         '/assets/projects/sisisBarbershop2.JPG',
         '/assets/projects/hbc2.JPG',
         '/assets/projects/whatDesigner2.JPG',
         '/assets/projects/sb1.jpg',
         '/assets/textures/tiedye/color.jpg',
-        '/assets/textures/woodplanks/color.jpg',
+        '/assets/textures/tiedye/color.jpg',
     ];
 
     const numImages = screenshotPaths.length;
